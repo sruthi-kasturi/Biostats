@@ -1,6 +1,6 @@
-# SAS_Clinical_Analytics
+# SAS_Clinical_Report
 
-Welcome to the SAS Biostatistics Analysis repository. This repository contains SAS scripts used for biostatistical analyses, including data import, descriptive statistics, hypothesis testing, ANOVA, chi-square tests, and correlation analysis.
+Welcome to the SAS Biostatistics Analysis repository. This repository contains a SAS report used for biostatistical analyses, including data import, descriptive statistics, hypothesis testing, ANOVA, chi-square tests, and correlation analysis.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,7 @@ Welcome to the SAS Biostatistics Analysis repository. This repository contains S
 - [License](#license)
 
 ## Introduction
-This repository provides a collection of SAS scripts that perform various biostatistical analyses on datasets related to medical and clinical research. The analyses include descriptive statistics, normality tests, ANOVA, chi-square tests, and correlation analyses.
+The report provides a collection of SAS scripts that perform various biostatistical analyses on datasets related to medical and clinical research. The analyses include descriptive statistics, normality tests, ANOVA, chi-square tests, and correlation analyses.
 
 ## File Descriptions
 
